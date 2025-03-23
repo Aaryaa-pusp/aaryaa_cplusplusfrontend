@@ -372,9 +372,6 @@ footer {
     transform: scale(1.2);
 }
 
-/* === Existing styles remain unchanged... === */
-
-/* === Responsive Design === */
 @media (max-width: 1024px) {
     .search-bar {
         width: 80%;
