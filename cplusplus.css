@@ -441,7 +441,7 @@ footer {
     }
 
     .hero-sidebar {
-        display: none; /* Hide sidebar on small screens */
+        display: none;
     }
 
     .hero-circle {
