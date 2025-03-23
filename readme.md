@@ -33,5 +33,5 @@ Setup instructions:-
   ->Open the project 
   locate cplusplus.html and open in your browser
   No need for installations or build tools
-
+Though this webiste is only containing the frontend part, I have added the link to actual website when clicked on any item on top bar,cards and the comments of people.
 Note: This project is static and uses no JavaScript or backend.
