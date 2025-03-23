@@ -246,7 +246,7 @@ nav a:hover {
     padding: 0.3rem 0.6rem;
     border-radius: 6px;
     position: absolute;
-    left: 120%; /* right side of icon */
+    left: 120%; 
     top: 50%;
     transform: translateY(-50%);
     transition: opacity 0.3s ease, left 0.3s ease;
