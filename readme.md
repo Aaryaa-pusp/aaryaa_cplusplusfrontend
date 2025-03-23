@@ -20,7 +20,7 @@ Design tools and visuals:-
 Folder structure:-
   /project-root
   │
-  ├── cplusplus.html
+  ├── index.html
   ├── styles/
   │   └── cplusplus.css
   ├── assets/
